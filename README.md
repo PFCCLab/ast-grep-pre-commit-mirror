@@ -1,6 +1,6 @@
 # ast-grep-pre-commit-mirror
 
-[ast-grep](https://ast-grep.github.io/) pre-commit hook distributed via PyPI for seamless integration with Python projects.
+[ast-grep](https://ast-grep.github.io/) pre-commit hook that uses the PyPI distribution for seamless integration with Python projects.
 
 ## Usage
 
