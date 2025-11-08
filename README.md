@@ -8,7 +8,7 @@ Add this to your `.pre-commit-config.yaml`:
 
 ```yaml
 - repo: https://github.com/PFCCLab/ast-grep-pre-commit-mirror
-  rev: v0.39.4
+  rev: v0.39.5
   hooks:
     - id: ast-grep
 ```
