@@ -1,6 +1,6 @@
 [project]
 name = "ast-grep-mirror"
-version = "0.40.5"
+version = "0.41.0"
 dependencies = [
-    "ast-grep-cli==0.40.5",
+    "ast-grep-cli==0.41.0",
 ]
